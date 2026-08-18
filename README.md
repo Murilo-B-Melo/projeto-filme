@@ -1,5 +1,5 @@
-### 👨‍💻 **Aluno: Murilo Borges de Melo
-### 📚 **Curso: Desenvolvimento de Sistemas / 1IG-DS
+### 👨‍💻 Aluno: Murilo Borges de Melo
+### 📚 Curso: Desenvolvimento de Sistemas / 1IG-DS
 
 ---
 
